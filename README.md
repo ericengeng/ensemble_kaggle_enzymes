@@ -1,1 +1,1 @@
-# ensemble_kaggle_enzymes
+I wrote this code to get 266th out of 1048 on the Explore Multi-Label Classification with an Enzyme Substrate Dataset Kaggle competition. I mainly did this to work on some basic ensembling techniques, but this submission did better on the private tests than I expected.  I moved up 129 places when the private tests were released.
